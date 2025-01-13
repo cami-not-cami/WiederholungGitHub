@@ -1,1 +1,2 @@
 das ist mein Bugfix
+Eine andere neue Zeile
